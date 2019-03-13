@@ -11,7 +11,8 @@
 
     	<p> Formulaire</p>
      	<input name="nom_ville">
-     	
+     	<input type="submit" value="Envoyer" />
+     	 
      </form>
   </body>
 </html>
