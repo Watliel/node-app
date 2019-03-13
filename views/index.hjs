@@ -11,7 +11,7 @@
 
     	<p> Formulaire</p>
      	<input name="nom_ville">
-     	<input type="text" />
+     	
      </form>
   </body>
 </html>
