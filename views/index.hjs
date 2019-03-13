@@ -7,5 +7,11 @@
   <body>
     <h1>{{ title }}</h1>
     <p>Welcome to {{ title }}</p>
+    <form method="get" action="/ville"> 
+
+    	<p> Formulaire</p>
+     	<input name="nom_ville">
+     	<input type="text" />
+     </form>
   </body>
 </html>
